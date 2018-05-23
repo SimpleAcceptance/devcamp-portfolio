@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/SimpleAcceptance/sak_view_tool
+  revision: 380021e86d4db5c136006df0451df1bea20539ad
+  specs:
+    sak_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -214,6 +220,7 @@ DEPENDENCIES
   pry-byebug
   puma (~> 3.11)
   rails (~> 5.2.0)
+  sak_view_tool!
   sass-rails (~> 5.0)
   spring
   spring-watcher-listen (~> 2.0.0)
